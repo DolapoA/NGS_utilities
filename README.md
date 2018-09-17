@@ -8,4 +8,4 @@ Use this script to ensure that all the R1 and R2 fastq files in your directory a
 
 How to run:
 
-python /path/to/checkR1andR2.py </path/to/dataset/>
+python /path/to/checkR1andR2.py     </path/to/dataset/>
