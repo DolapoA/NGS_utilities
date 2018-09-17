@@ -1,5 +1,5 @@
-### NGS_utilities ###
-# A bunch of small scripts that you might find useful whilst working with genome sequences #
+# NGS_utilities #
+### A bunch of small scripts that you might find useful whilst working with genome sequences ###
 
 ## Scripts ##
 checkR1andR2:
