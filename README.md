@@ -9,3 +9,12 @@ Use this script to ensure that all the R1 and R2 fastq files in your directory a
 How to run:
 
 `python /path/to/checkR1andR2.py     </path/to/dataset/>`
+
+
+### runTrim ###
+
+Use this script to trim your fastq files. Choose to keep either paired, unpaired or both.
+
+How to run:
+
+`python /path/to/runTrim.py    </path/to/dataset/>`
